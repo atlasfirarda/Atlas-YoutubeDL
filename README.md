@@ -45,7 +45,7 @@ downloads/video(3840x2160).mp4
 
 ## License
 
-This project is licensed under the Creative Commons 1.0 License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Creative Commons Zero v1.0 Universal License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
