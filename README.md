@@ -28,3 +28,25 @@ Simply download or clone the repository, then run the `start.py` file. The progr
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/atlasfirarda/Atlas-YoutubeDL.git
+2. **Run the Application: Double-click on `bashstart.py` or run it through the terminal:**
+   ```bash
+   python start.py
+3. **Follow the Prompts:**
+   - Input the YouTube video link.
+   - Use arrow keys to select the desired resolution.
+   - Press Enter to confirm and download.
+
+## Example
+
+After downloading a 3840p video, the file would appear as:
+```scss
+downloads/video(3840x2160).mp4
+```
+
+## License
+
+This project is licensed under the Creative Commons 1.0 License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For support, please contact [atlasatakahraman.com@gmail.com](mailto:atlasatakahraman.com@gmail.com).
