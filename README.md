@@ -39,7 +39,7 @@ Simply download or clone the repository, then run the `start.py` file. The progr
 ## Example
 
 After downloading a 3840p video, the file would appear as:
-```bash
+```scss
 downloads/video(3840x2160).mp4
 ```
 
