@@ -17,7 +17,6 @@ Atlas-YoutubeDL v2.0.0 introduces a sleek and user-friendly **Graphical User Int
 
 - **Brand New GUI**: Forget the terminal! With the new graphical interface, users can navigate through the application effortlessly.
   - Drag-and-drop support for YouTube URLs.
-  - Interactive resolution selection via buttons.
   - Real-time download progress bar.
 - **Enhanced Performance**: Optimized backend for faster downloads and smoother operations.
 
@@ -26,7 +25,6 @@ Atlas-YoutubeDL v2.0.0 introduces a sleek and user-friendly **Graphical User Int
 - **Automatic Folder Creation**: Default download directory setup ensures videos are organized.
 - **Filename Customization**: Automatically appends resolution to filenames (e.g., `example_video_(1920x1080).mp4`).
 - **Automatic Dependency Management**: Installs all required Python modules during the first run.
-- **Batch Processing**: Download multiple videos without repeating steps for each.
 
 ## Installation & Usage
 
