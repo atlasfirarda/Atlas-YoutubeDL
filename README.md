@@ -9,32 +9,49 @@
 
 ---
 
-# Atlas-YoutubeDL
+# Atlas-YoutubeDL v2.0.0
 
-**Atlas-YoutubeDL** is a simple yet powerful tool designed for downloading YouTube videos with customizable resolution. It provides a clean and interactive terminal interface for selecting video quality and manages downloads efficiently.
+Atlas-YoutubeDL v2.0.0 introduces a sleek and user-friendly **Graphical User Interface (GUI)**, making video downloads more accessible and visually appealing. This update shifts from the terminal-based approach to an intuitive GUI layout, offering enhanced usability and efficiency.
+
+## What’s New in v2.0.0?
+
+- **Brand New GUI**: Forget the terminal! With the new graphical interface, users can navigate through the application effortlessly.
+  - Drag-and-drop support for YouTube URLs.
+  - Interactive resolution selection via buttons.
+  - Real-time download progress bar.
+- **Batch Download Support**: Add multiple links to a queue and download them simultaneously.
+- **Improved File Management**: Choose custom download folders and set filename preferences directly from the GUI.
+- **Enhanced Performance**: Optimized backend for faster downloads and smoother operations.
 
 ## Features
 
-- **Interactive Resolution Selection**: After providing a YouTube link, users can scroll through available resolutions using arrow keys and confirm their choice with Enter.
-- **Automatic Folder Creation**: If a "downloads" folder does not exist, Atlas-YoutubeDL creates it automatically and saves the downloaded video there.
-- **Filename Customization**: The downloaded video's filename includes the selected resolution (e.g., `example_video_(1920x1080).mp4`) for easy identification.
-- **Automatic Dependency Management**: No need to install dependencies manually—Atlas-YoutubeDL automatically installs the necessary Python modules for you.
-- **Inquirer Integration**: The interface is built using `inquirer`, providing a smooth and intuitive selection experience.
+- **Automatic Folder Creation**: Default download directory setup ensures videos are organized.
+- **Filename Customization**: Automatically appends resolution to filenames (e.g., `example_video_(1920x1080).mp4`).
+- **Automatic Dependency Management**: Installs all required Python modules during the first run.
+- **Batch Processing**: Download multiple videos without repeating steps for each.
 
 ## Installation & Usage
 
-Simply download or clone the repository, then run the `start.py` file. The program will handle all dependencies and set up everything automatically:
-
-1. **Clone the Repository**:
+1. **Download or Clone the Repository**:
    ```bash
    git clone https://github.com/atlasfirarda/Atlas-YoutubeDL.git
-2. **Run the Application: Double-click on `bashstart.py` or run it through the terminal:**
-   ```bash
-   python start.py
-3. **Follow the Prompts:**
-   - Input the YouTube video link.
-   - Use arrow keys to select the desired resolution.
-   - Press Enter to confirm and download.
+   ```
+
+2. **Run the Application**:
+   - Execute the `AtlasAta-YoutubeDL.exe` file or Double-click the `start-gui.py` python script.
+
+3. **Enjoy the GUI Experience**:
+   - Drag and drop a YouTube link or paste it into the designated field.
+   - Click “Download” to start!
+
+## Screenshots
+
+- **Main Screen**: User-friendly layout with drag-and-drop support.
+ ![image](https://github.com/user-attachments/assets/6e8c3056-75dc-4ca8-9bef-f8332b474307)
+- **Progress Bar**: Real-time feedback during downloads.
+
+     ![image](https://github.com/user-attachments/assets/ad63747c-e15f-4ef0-b93d-e1f8b3f03473)
+
 
 ## Example
 
