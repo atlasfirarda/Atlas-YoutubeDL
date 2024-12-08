@@ -19,8 +19,6 @@ Atlas-YoutubeDL v2.0.0 introduces a sleek and user-friendly **Graphical User Int
   - Drag-and-drop support for YouTube URLs.
   - Interactive resolution selection via buttons.
   - Real-time download progress bar.
-- **Batch Download Support**: Add multiple links to a queue and download them simultaneously.
-- **Improved File Management**: Choose custom download folders and set filename preferences directly from the GUI.
 - **Enhanced Performance**: Optimized backend for faster downloads and smoother operations.
 
 ## Features
