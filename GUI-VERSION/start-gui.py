@@ -43,7 +43,8 @@ requirements: list = [
     "wcwidth",
     "websockets",
     "xmod",
-    "yt-dlp"]
+    "yt-dlp",
+    "customtkinter"]
 
 total_req: int = requirements.__len__()
 installed_req: int = 0
